@@ -1,0 +1,28 @@
+name: Salty Air
+favicon: null
+layout_spectrum: 0.9046365767717361
+typography_spectrum: 0.7443695180118084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.23108253628015518
+  lightness: 0.5609990793745965
+  saturation: 0.7020883085206151
+  rhythmicContrast: 0.7902045324444771
+purpose: []
